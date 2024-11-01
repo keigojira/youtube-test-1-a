@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#player {
+  width: 640px;
+  height: 360px;
+}
+
+#searchInput {
+  padding: 10px;
+  width: 300px;
+}
+
+#searchButton {
+  padding: 10px 20px;
+}
